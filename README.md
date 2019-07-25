@@ -45,18 +45,18 @@ Paola es una joven de 20 años que ha decidido ahorrar e invierte $6,000 cada a�
 
 Santiago tiene la misma edad, prefiere gastar su dinero y decide postergar su ahorro hasta los 31 años, momento “idóneo” para ahorrar el mismo monto que Paola, en el mismo periodo de tiempo y con la misma tasa de interés.
 
-![Ejercicio](./img/EJERCICIO.jpg)
+![Ejercicio](./imgprueba/EJERCICIO.jpg)
 
 ## PLANTEAMIENTO Y SOLUCIÓN
 En el siguiente [link](https://docs.google.com/presentation/d/1QOGUAWreh1t9N6GQnfQwIyITpOSOiyyO8wyq7sRNbvc/edit?usp=sharing) encontrarás el problema enfocado a las estudiantes de Laboratoria, así como el planteamiento de la solución. 
 
 ## PROTOTIPO DE BAJA FIDELIDAD
 Una vez detectada la necesidad a resolver y planteada la solución del problema a través de la "ideación" de nuestra aplicación, nos dimos a la tarea de realizar de forma individual los posibles prototipos, para posteriormente rescatar lo mejor de cada propuesta.
-![Sketch1](./img/SKETCH1.jpg)
-![Sketch2](./img/SKETCH2.jpg)
+![Sketch1](./imgprueba/SKETCH1.jpg)
+![Sketch2](./imgprueba/SKETCH2.jpg)
 
-![Sketch3](./img/SKETCH3.jpg)
-![Sketch4](./img/SKETCH4.jpg)
-![Sketch5](./img/SKETCH5.jpg)
-![Sketch6](./img/SKETCH6.jpg)
-![Sketch7](./img/SKETCH7.jpg)
+![Sketch3](./imgprueba/SKETCH3.jpg)
+![Sketch4](./imgprueba/SKETCH4.jpg)
+![Sketch5](./imgprueba/SKETCH5.jpg)
+![Sketch6](./imgprueba/SKETCH6.jpg)
+![Sketch7](./imgprueba/SKETCH7.jpg)
