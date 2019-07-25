@@ -29,7 +29,7 @@ Pero… ¿cómo manejan los jóvenes mexicanos sus finanzas? Para conocer sobre 
 
 Otro dato del estudio revela que 54% de los jóvenes realiza compras que salen del presupuesto, y para subsanar esta situación, recurren a sus ahorros, lo que puede interferir en lograr un control adecuado de sus finanzas.
 
-![Grafica](./img/GRAF.jpg)
+![Grafica](./imgprueba/GRAF.jpg)
 
 ### Que no le sobren días a tu quincena
 
